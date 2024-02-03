@@ -2,7 +2,7 @@
 # Homepage configuration
 # See https://fontawesome.com/v5/search for icons options
 
-title: "My Dashboard"
+title: "Myyyy Dashboard"
 subtitle: "Dashboard"
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
@@ -55,9 +55,11 @@ links:
     icon: "fab fa-github"
     url: "https://github.com/bastienwirtz/homer"
     target: "_blank" # optional html a tag target attribute
+    statusCheck: true
   - name: "Wiki"
     icon: "fas fa-book"
     url: "https://www.wikipedia.org/"
+    statusCheck: true
   # this will link to a second homer page that will load config from additional-page.yml and keep default config values as in config.yml file
   # see url field and assets/additional-page.yml.dist used in this example:
   #- name: "another page!"
