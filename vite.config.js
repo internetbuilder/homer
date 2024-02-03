@@ -17,7 +17,7 @@ export default defineConfig({
       useCredentials: true,
       manifestFilename: "assets/manifest.json",
       manifest: {
-        name: "Home Server Dashboard",
+        name: "Home Server Dashboardd",
         short_name: "Homer",
         description: "Home Server Dashboard",
         theme_color: "#3367D6",
